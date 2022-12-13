@@ -1,0 +1,7 @@
+Some StringProduct name is iPhone and its price is 1000 $334455 - 85.81
+223344 - 30.13
+112233 - 36.77
+#Bank Account with highest balance
+85.81
+#Frequently used source bank account
+2
